@@ -1,0 +1,4 @@
+Hello,
+I have attached two csvs along with the code. The soil_data csv is the one which has been read into python for coding.
+The reason for adding this csv is that the source csv has been cleaned a bit using excel first. 
+The final csv after cleaning is also attached. 
